@@ -1,0 +1,5 @@
+email,password,expected_result
+heyashmita@gmail.com,gdhyeg28!@,success
+wronguser@example.com,WrongPass@123,failure
+unregistered_user_xyz123@example.com,SomePass123,failure
+heyashmita@gmail.com,WrongPassword1,failure
