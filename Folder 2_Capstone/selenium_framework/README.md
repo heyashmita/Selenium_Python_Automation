@@ -1,6 +1,9 @@
 # Selenium Python Automation Framework
 ### Unittest + PyTest + POM | Login & Product Search on automationexercise.com
 
+## Demo Video
+Full project walkthrough: [Watch here](https://drive.google.com/file/d/1Azg8AZg4owPFcx2uAR2bE-udddH3LxjQ/view?usp=sharing)
+
 ## 1. Project Structure
 
 ```
@@ -171,3 +174,4 @@ Add rows to either file to extend coverage — no code changes required.
   exits with standard process codes, so it drops into any CI pipeline
   (GitHub Actions, Jenkins, GitLab CI) by simply running `pip install -r
   requirements.txt && pytest`.
+
