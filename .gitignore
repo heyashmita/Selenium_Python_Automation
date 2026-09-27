@@ -1,7 +1,7 @@
-venv/
-__pycache__/
-*.pyc
-reports/screenshots/
-reports/html/
-reports/execution.log
-.pytest_cache/
+**/venv/
+**/__pycache__/
+**/*.pyc
+**/reports/screenshots/
+**/reports/html/
+**/reports/execution.log
+**/.pytest_cache/
